@@ -1,0 +1,26 @@
+_repo: Great-Britain-and-Her-Queen_13103
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keeling, Annie E.
+    gutenberg_agent_id: '3606'
+    url: http://www.gutenberg.org/2009/agents/3606
+description: Second Edition
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13103'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- 19th century'
+- !lcsh 'Victoria, Queen of Great Britain, 1819-1901'
+title: Great Britain and Her Queen
+url: http://www.gutenberg.org/ebooks/13103
